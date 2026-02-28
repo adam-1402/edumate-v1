@@ -1,0 +1,8 @@
+{
+  "name": "EduMate - Modern Learning Platform",
+  "description": "A comprehensive educational platform with gamified learning, community features, skill exchange, and a built-in AI assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
